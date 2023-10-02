@@ -104,6 +104,5 @@ def main():
     print(f"Total reward {total_reward}")
 
 
-
 if __name__ == '__main__':
     main()
